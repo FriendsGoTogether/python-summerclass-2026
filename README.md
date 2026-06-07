@@ -120,6 +120,10 @@ python day2\lesson4.py
 - File `lesson4.py` sử dụng `input()` nên cần nhập dữ liệu từ bàn phím khi chạy
 - Không nên đổi tên các biến đã được định nghĩa trong các bài tập
 
+## Tài liệu tham khảo
+
+Tài liệu đầy đủ các bài học Python: [Google Drive](https://drive.google.com/drive/folders/1xHtWkfcvb6jmBvvceqdA8qDR3epdx3_R?usp=share_link)
+
 ## Liên hệ
 
 Nếu có thắc mắc, vui lòng liên hệ cao.trung.thu@gmail.com
