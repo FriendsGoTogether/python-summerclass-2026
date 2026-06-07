@@ -44,3 +44,14 @@ decimal_number = float("3.14")
 str = int(34)
 str = int(34.14)
 
+name = input("Input your name: ")
+age = input("Input your age: ")
+age = int(age)
+
+name = input()
+age = input()
+age = int(age)
+
+age = int(input())
+
+
