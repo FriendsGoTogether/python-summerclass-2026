@@ -14,10 +14,15 @@ Vậy để giảm được 18 chân số con gà sẽ là:
 18: 2 = 9 con
 '''
 
+# Tổng số con vật (gà + chó)
 total_animals = 12
+# Tổng số chân đếm được
 total_legs = 30
+# Giả sử tất cả đều là chó: mỗi chó có 4 chân
 all_dogs = total_animals * 4
+# Tính số chân dư so với thực tế
 extra_legs = all_dogs - total_legs
+# Mỗi con gà có 2 chân, nên chia số chân dư cho 2 ra số con gà
 chickens = extra_legs // 2
+# In kết quả: 9 con gà
 print(chickens)
-
