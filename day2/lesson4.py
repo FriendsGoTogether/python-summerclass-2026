@@ -5,4 +5,12 @@ birthday = "11/12/1984"
 grade = 6
 Is_excellent_student = False
 
-12ab = 45
+Ten = "Le Van An"
+diem = 10
+
+number_of_students = 20
+name = "Cao Trung Nguyên"
+school_name = "Vinschool SmartCity"
+birthday = "11/12/2017"
+grade = 9
+Is_excellent_student = True
