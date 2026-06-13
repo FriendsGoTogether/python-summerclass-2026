@@ -122,4 +122,3 @@ print("A > 10 and B > 10 (10 > 10 and 12 > 10):", A > 10 and B > 10)
 print("\n=== Bước 30: Toán tử logic OR (hoặc) ===")
 # or trả về True nếu ít nhất một trong hai điều kiện đúng
 print("A > 10 or B > 10 (10 > 10 or 12 > 10):", A > 10 or B > 10)
-
