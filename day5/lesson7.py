@@ -1,5 +1,3 @@
-# Demonstrates various uses of range() in for loops
-
 # 1. Mặc định bắt đầu từ 0 và dừng trước 5 (tăng 1 đơn vị)
 # Dãy số tạo ra: 0, 1, 2, 3, 4
 for i in range(5): 
