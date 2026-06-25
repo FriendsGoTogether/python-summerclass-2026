@@ -93,9 +93,9 @@ python3 day1/helloworld.py
 python3 day1/lesson1.py
 python3 day1/lesson2.py
 python3 day1/lesson3.py
-
 # Chạy file day2
 python3 day2/lesson4.py
+...
 ```
 
 **Trên Windows:**
@@ -104,8 +104,8 @@ python day1\helloworld.py
 python day1\lesson1.py
 python day1\lesson2.py
 python day1\lesson3.py
-
 python day2\lesson4.py
+...
 ```
 
 **Sử dụng VS Code:**
